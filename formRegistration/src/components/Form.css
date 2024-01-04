@@ -1,0 +1,60 @@
+.emailErrorMsg{
+    color: red;
+    font-size: 13px;
+    position: absolute;
+    top: 227px;
+    left: 370px;
+}
+
+
+.passwordErrorMsg{
+    color: red;
+    font-size: 13px;
+    position: absolute;
+    top: 292px;
+    left: 360px;
+}
+
+.confirmPasswordErrorMsg{
+    color: red;
+    font-size: 13px;
+    position: absolute;
+    top: 360px;
+    left: 330px;
+
+}
+
+.displayData{
+    width: 475px;
+    height: 250px;
+    position: absolute;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.displayData p{
+    width: 300px;
+
+}
+
+/* 
+.displayData {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  } */
+  
+  /* Add additional styles as needed */
+  
+  /* .emailErrorMsg,
+.passwordErrorMsg,
+.confirmPasswordErrorMsg {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+} */
+
+.addSpace{
+   
+}
